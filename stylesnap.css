@@ -1,0 +1,10 @@
+body{
+    background-color: yellow;
+}
+section div h1{
+    color: black;
+    font-size: 5em;
+}
+.nav-link:hover{
+    color: white;
+}
